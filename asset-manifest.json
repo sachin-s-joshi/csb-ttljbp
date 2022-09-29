@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sachin-s-joshi.github.io/csb-ttljbp/static/css/main.a37357ff.chunk.css",
+    "main.js": "https://sachin-s-joshi.github.io/csb-ttljbp/static/js/main.d71b8fc5.chunk.js",
+    "main.js.map": "https://sachin-s-joshi.github.io/csb-ttljbp/static/js/main.d71b8fc5.chunk.js.map",
+    "runtime-main.js": "https://sachin-s-joshi.github.io/csb-ttljbp/static/js/runtime-main.b2c1500d.js",
+    "runtime-main.js.map": "https://sachin-s-joshi.github.io/csb-ttljbp/static/js/runtime-main.b2c1500d.js.map",
+    "static/js/2.033757de.chunk.js": "https://sachin-s-joshi.github.io/csb-ttljbp/static/js/2.033757de.chunk.js",
+    "static/js/2.033757de.chunk.js.map": "https://sachin-s-joshi.github.io/csb-ttljbp/static/js/2.033757de.chunk.js.map",
+    "index.html": "https://sachin-s-joshi.github.io/csb-ttljbp/index.html",
+    "static/css/main.a37357ff.chunk.css.map": "https://sachin-s-joshi.github.io/csb-ttljbp/static/css/main.a37357ff.chunk.css.map",
+    "static/js/2.033757de.chunk.js.LICENSE.txt": "https://sachin-s-joshi.github.io/csb-ttljbp/static/js/2.033757de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2c1500d.js",
+    "static/js/2.033757de.chunk.js",
+    "static/css/main.a37357ff.chunk.css",
+    "static/js/main.d71b8fc5.chunk.js"
+  ]
+}
